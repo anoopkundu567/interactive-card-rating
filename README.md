@@ -1,1 +1,1 @@
-# Interactive-rating
+# interactive-card-rating
